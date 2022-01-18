@@ -1,0 +1,3 @@
+# Introduction to Computer Science I (COSC111 Fall 2021)
+
+Here, I've included a collection of all my homework, labs, and projects from my first computer science course at Morgan State University. This is here mostly so I can refer back to it if anyone ever needs help, or if anyone out there wants to learn how to code and use my past code as an example. All of these assignments have been completed with a 100% grade, and some have extra credit problems as well. They can really help with beginners that are struggle to get a hold of concepts, as well as those who want to try freshman level internship questions. I may post the optional practice problems that I didn't do as well to further help those who need it!
